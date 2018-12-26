@@ -1,0 +1,11 @@
+E:\project\Reflection\MyReflection\bin\Debug\MyReflection.dll
+E:\project\Reflection\MyReflection\bin\Debug\MyReflection.pdb
+E:\project\Reflection\MyReflection\obj\Debug\MyReflection.csprojResolveAssemblyReference.cache
+E:\project\Reflection\MyReflection\obj\Debug\MyReflection.dll
+E:\project\Reflection\MyReflection\obj\Debug\MyReflection.pdb
+E:\Project\doNet\Reflection\Reflection\MyReflection\obj\Debug\MyReflection.csprojAssemblyReference.cache
+E:\Project\doNet\Reflection\Reflection\MyReflection\obj\Debug\MyReflection.csproj.CoreCompileInputs.cache
+E:\Project\doNet\Reflection\Reflection\MyReflection\obj\Debug\MyReflection.dll
+E:\Project\doNet\Reflection\Reflection\MyReflection\obj\Debug\MyReflection.pdb
+E:\Project\doNet\Reflection\Reflection\MyReflection\bin\Debug\MyReflection.dll
+E:\Project\doNet\Reflection\Reflection\MyReflection\bin\Debug\MyReflection.pdb
